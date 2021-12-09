@@ -2,13 +2,13 @@
 	"type": "minecraft:crafting_shapeless",
 	"ingredients": [
 		{
-			"id": "minecraft:gravel"
+			"item": "minecraft:gravel"
 		},
 		{
-			"id": "minecraft:gravel"
+			"item": "minecraft:gravel"
 		},
 		{
-			"id": "minecraft:gravel"
+			"item": "minecraft:gravel"
 		}
 	],
 	"result": {
